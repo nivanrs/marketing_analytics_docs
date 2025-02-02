@@ -1,0 +1,18 @@
+{
+  "name": "marketing_analytics_docs",
+  "version": "1.0.0",
+  "description": "Documentation for Marketing and Data Analytics",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vitepress": "latest",
+    "vue": "latest"
+  }
+}
